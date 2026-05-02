@@ -9,10 +9,7 @@ I’m a frontend developer with a solid foundation in HTML, CSS, and Bootstrap, 
 ![](https://streak-stats.demolab.com/?user=AzaanSarfaraz&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AzaanSarfaraz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
----
-[![](https://komarev.com/ghpvc/?username=AzaanSarfaraz&icon=9&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
