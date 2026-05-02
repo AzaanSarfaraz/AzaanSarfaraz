@@ -1,21 +1,14 @@
----
-
 ## 💫 About Me
 
-I’m a frontend developer with a solid foundation in **HTML, CSS, and Bootstrap**, focused on building clean, responsive, and user-friendly web interfaces.
+I’m a frontend developer with a solid foundation in **HTML, CSS, and Bootstrap**, focused on building clean, responsive, and user-friendly web interfaces.  
 
-I’ve completed **5–6 real-world projects** that demonstrate my ability to turn ideas into functional, visually appealing websites.
+I’ve completed **5–6 real-world projects** that demonstrate my ability to turn ideas into functional, visually appealing websites.  
 
-I also leverage **AI tools** to:
-- ⚡ Speed up development  
-- 🎨 Improve UI/UX decisions  
-- 🚀 Add modern, efficient features  
+I also leverage **AI tools** to speed up development, improve UI/UX decisions, and add modern, efficient features.  
 
-My approach combines **practical coding skills + smart tools** to deliver polished web experiences.
+My approach combines **practical coding skills + smart tools** to deliver polished web experiences.  
 
 🎯 Currently focused on growing into a **full-stack & advanced frontend developer**
-
----
 
 ## 💻 Additional Tech Stack
 
@@ -29,8 +22,6 @@ My approach combines **practical coding skills + smart tools** to deliver polish
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
-
----
 
 ## 📊 Additional GitHub Stats
 
@@ -47,8 +38,6 @@ My approach combines **practical coding skills + smart tools** to deliver polish
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SufiyanShahidDev&theme=tokyonight&hide_border=true&layout=compact" />
 
 </div>
-
----
 
 ## ✍️ Developer Quote
 
