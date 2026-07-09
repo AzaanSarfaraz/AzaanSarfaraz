@@ -27,7 +27,7 @@ My approach combines **practical coding skills + smart tools** to deliver polish
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=SufiyanShahidDev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.shion.dev/api?username=AzaanSarfaraz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
 <br/>
 
